@@ -16,15 +16,15 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    Telefon: +90 535 305 90 32
+    Acil: +90 535 305 90 32
+    email: ayca@gmail.com
+    Adres: Tarsus 
 
 # Calisma Saatleri
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+Pazartesi- Cuma: 9:00 – 22:00
+Cumartesi: 10:00 – 21:00
+sunday: 10:00 – 22:00
 
 # Testimonials
 testimonials:
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Tarsus
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -45,7 +45,7 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2017 AYCA DUMER AVON - Tum haklari saklidir
 
 # Build settings
 markdown: kramdown
