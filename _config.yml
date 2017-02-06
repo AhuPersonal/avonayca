@@ -16,14 +16,14 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    Telefon: +90 535 305 90 32
-    Acil: +90 535 305 90 32
+    phone: +90 535 305 90 32
+    Emergency: +90 535 305 90 32
     email: ayca@gmail.com
-    Adres: Tarsus 
+    Address: Tarsus 
 
 # Calisma Saatleri
-Pazartesi- Cuma: 9:00 – 22:00
-Cumartesi: 10:00 – 21:00
+monday - friday: 9:00 – 22:00
+saturday: 10:00 – 21:00
 sunday: 10:00 – 22:00
 
 # Testimonials
