@@ -7,9 +7,9 @@ logo_url: img/logo_avon.jpg
 
 # Hero
 hero: 
-    hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_img: subat_katalog.jpg
+    hero_title: Avon Kayit AYCA DUMER
+    hero_description: Avon'un en kolay kayit sistemi
 
 # Contact form
 api_token: # Enter API token here
